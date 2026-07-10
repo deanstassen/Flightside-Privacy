@@ -54,7 +54,7 @@ operate any map servers and never see this data.
 Because FlightHUD doesn't collect or hold any personal data, there's generally nothing
 for me to give you a copy of, correct, or delete — it never left your device in the
 first place. If you ever have a question about this, or believe that's not accurate,
-email me at [dean@stassen.co.uk](mailto:dean@stassen.co.uk) and I'll look into it.
+email me at [dean@flightside.io](mailto:dean@flightside.io) and I'll look into it.
 
 ## Future changes
 
@@ -66,4 +66,4 @@ haven't updated recently; check this page for the current version.
 
 ## Contact
 
-Questions about this policy or the app: [dean@stassen.co.uk](mailto:dean@stassen.co.uk)
+Questions about this policy or the app: [dean@flightside.io](mailto:dean@flightside.io)
